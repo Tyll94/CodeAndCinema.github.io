@@ -1,6 +1,7 @@
 # Final-Year Computer Engineering Student | AI & IoT Specialist | Ex-Army Intelligence
 
-### Education 
+## Education
+## Nanyang Technological University, Singapore                   Aug 2021 – May 2025
 
 ###Work Experience
 Data Scientist @ NTU
