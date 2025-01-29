@@ -28,13 +28,13 @@ Identified and analyzed over 800 lines of code to produce a dynamic and responsi
 #### Computer Vision Software Engineer, Professional Intern 
 
 Spearheaded the design and development of application-specific automation solutions using Computer Vision Software, resulting in a 50% reduction in manpower effort and a 100% increase in productivity. 
-&nbsp;&nbsp;&nbsp; o	Designed and implemented an enhanced computer model for precise 3D printing of pharmaceutical supplements, integrating computer vision software to automate quality checks and provide real-time feedback to operators. \
+&nbsp;&nbsp;&nbsp; •	Designed and implemented an enhanced computer model for precise 3D printing of pharmaceutical supplements, integrating computer vision software to automate quality checks and provide real-time feedback to operators. \
 &nbsp;&nbsp;&nbsp; o	Implemented computer vision algorithms to identify and classify various pharmaceutical drugs, enabling continuous learning and differentiation of drug quality. \
-&nbsp;&nbsp;&nbsp; o	Troubleshooted, debugged, and provided support for existing firmware in current 3D printers. \
+&nbsp;&nbsp;&nbsp; •	Troubleshooted, debugged, and provided support for existing firmware in current 3D printers. \
 Contributed to general operations, including company production, general administration, and cleanroom procedures. \
-&nbsp;&nbsp;&nbsp; o	Participated in the production process of 3D-printed pharmaceutical supplements, involving drying, stacking, and packaging thousands of products for clients. \
-&nbsp;&nbsp;&nbsp; o	Manage process development, optimization, and standardization of existing or new company standard operating procedures. \
-&nbsp;&nbsp;&nbsp; o	Maintained rigorous documentation of experimental data and procedures for the computer vision program, ensuring readability and continuity for future engineers.
+&nbsp;&nbsp;&nbsp; •	Participated in the production process of 3D-printed pharmaceutical supplements, involving drying, stacking, and packaging thousands of products for clients. \
+&nbsp;&nbsp;&nbsp; •	Manage process development, optimization, and standardization of existing or new company standard operating procedures. \
+&nbsp;&nbsp;&nbsp; •	Maintained rigorous documentation of experimental data and procedures for the computer vision program, ensuring readability and continuity for future engineers.
 
 
 #### ST Engineering Mission Software & Services Pte. Ltd	May 2023 – Aug 2023
