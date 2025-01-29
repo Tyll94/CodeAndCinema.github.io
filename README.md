@@ -1,4 +1,4 @@
-# Data Scientist 
+# Final-Year Computer Engineering Student | AI & IoT Specialist | Ex-Army Intelligence
 
 ### Education 
 
