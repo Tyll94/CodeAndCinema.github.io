@@ -7,7 +7,7 @@ Year 4 Student in School of Computer Science and Computer Engineering
 
 #### Ngee Ann Polytechnic, Singapore                              (Apr 2012 – Feb 2015)
 #### Diploma in Electronic and Computer Engineering
-<pre></pre>
+<pre>
 Dean’s List for all Semesters, Academic Year 2012/2013 
 Xilinx Asia Pacific Prize Award for Electronic Design  
 Joint Polytechnic SAF Diploma Scheme Scholarship 
@@ -36,6 +36,7 @@ o	Participated in the production process of 3D-printed pharmaceutical supplement
 o	Manage process development, optimization, and standardization of existing or new company standard operating procedures. 
 o	Maintained rigorous documentation of experimental data and procedures for the computer vision program, ensuring readability and continuity for future engineers.
 </pre>
+
 #### ST Engineering Mission Software & Services Pte. Ltd	May 2023 – Aug 2023
 #### Hospital Command Center, Intern 
 Developed an automation testing system using Playwright to streamline and expedite software testing procedures for ST engineering Tan Tock Seng Hospital Team. This initiative led to significant time savings and enhanced accuracy in handling millions of user’s records. /
